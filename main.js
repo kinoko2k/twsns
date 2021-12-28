@@ -85,7 +85,7 @@ $("#pco").keypress(function(e){
 
 function post_f () {
     var content = String($("#pco").val());
-    if (content.startsWith("setnick:")) {
+    if (content.startsWith("setnick!")) {
         var nick_ = "";
         nick_ = content.replace("setnick:", "");
         if (nick_ == "") {
