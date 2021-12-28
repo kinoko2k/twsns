@@ -3,7 +3,7 @@
 
 setnick![nickname]でニックネーム変更
 
-参考にしたnarikakunに感謝します。
+参考にしたnarikakunの3secondsnsに感謝します。
 
 [@narikakun](https://twitter.com/narikakun)
 
