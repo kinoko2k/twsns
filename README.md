@@ -10,3 +10,8 @@ setnick![nickname]でニックネーム変更
 [3 Second SNS](https://github.com/narikakun/3SecondSNS)
 
 [narikakun blog](https://narikakun.net/)
+
+
+# 本家と変わってるところ
+- 名前の変更
+- メッセージが消えない
