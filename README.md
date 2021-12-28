@@ -1,3 +1,11 @@
-# 3SecondSNS
-3秒だけ見れるSNSです。
-サーバーエラーが表示されるときは、時間を開けて再度アクセスし直してみてください。
+# Twitter的なSNS
+サーバーエラーは入り直し
+
+setnick![nickname]でニックネーム変更
+
+参考にしたnarikakunに感謝します。
+[@narikakun](https://twitter.com/narikakun)
+
+[3 Second SNS](https://github.com/narikakun/3SecondSNS)
+
+[narikakun blog](https://narikakun.net/)
